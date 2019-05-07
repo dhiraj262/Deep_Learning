@@ -1,2 +1,4 @@
 Implementing some DeepLearning Case studies.
-# Image Super Resolution using keras and opencv.
+
+## Image Super Resolution using SRCNN with keras and opencv.
+## Stock price prediction using LSTM. 
